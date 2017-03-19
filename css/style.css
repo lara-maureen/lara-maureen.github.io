@@ -1,0 +1,70 @@
+.yellow{
+	background-color: #F4E08E
+}
+
+.green{
+	background-color: #8EF4D9
+}
+
+.orange{
+	background-color: #F3B75C
+}
+	
+.profileimage{
+	max-width: 100%; 
+}
+.information_card{
+
+}
+
+.test{
+	margin-bottom: 20px;
+}
+.navBrand{
+	height: 90px;
+}
+.test2{
+	border-bottom-width: 20px;
+}
+.test3{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.navbar-height{
+	height: 120px;
+}
+.position{
+	margin-top: 50px;
+}
+.font{
+	font-family: 'Lato', sans-serif; font-size: 15px;
+}
+.position2{
+	font-family: 'Lato', sans-serif; font-size: 30px,
+}
+.holder {
+	margin-top: 200px;
+}
+.image{
+	width:70%;
+}
+
+.buttons button{
+	border: none;
+	background-color: rgba(143, 35, 146, 1);
+}
+
+.push-down {
+	margin-top: 70px;
+}
+.socialmedia i {
+	font-size: 30px; 
+	color: grey;
+}
+.buttonmargin {
+	margin-top: 80px;
+}
+.smspace{
+	margin-top: 60px;
+}
